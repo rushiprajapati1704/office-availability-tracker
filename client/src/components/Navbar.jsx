@@ -7,7 +7,7 @@ const Navbar = () => {
                 <div>
 
                     <h1 className="text-3xl font-bold text-white">
-                        🏢 Office Availability Tracker - Owner of 3000 CRORE - Local Developer
+                        🏢 Office Availability Tracker - Owner of 3000 CRORE - Local Developer.
                     </h1>
 
                     <p className="text-blue-100 text-sm">
